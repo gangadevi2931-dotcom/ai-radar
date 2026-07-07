@@ -19,7 +19,7 @@ An automated n8n workflow that discovers trending AI tools from GitHub, research
 
 ## Workflow
 
-![Workflow Screenshot](screenshot.png)
+![Workflow Screenshot](workflow-screenshot.png)
 
 ## Setup
 
