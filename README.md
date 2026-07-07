@@ -30,7 +30,7 @@ An automated n8n workflow that discovers trending AI tools from GitHub, research
 
 ## Sample Output
 
-*(Add a screenshot of your email here)*
+*![Email Output](AI%20Radar%20Email%20output.jpeg)*
 
 ## Future Improvements
 
